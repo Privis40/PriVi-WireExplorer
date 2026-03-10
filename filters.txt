@@ -1,0 +1,19 @@
+PriVi-WireExplorer | Sentinel v6.0 Filter Cheat Sheet
+=====================================================
+
+| Search Query | Protocol/Type        | Forensic Purpose                           |
+|--------------|----------------------|--------------------------------------------|
+| TCP          | Transmission Control | View reliable data (Web, SSH, Email)       |
+| UDP          | User Datagram        | View fast streams (DNS, Video, VoIP)       |
+| ARP          | Address Resolution   | Monitor for Spoofing and MITM attacks      |
+| ICMP         | Control Message      | Detect "Pings" and network discovery       |
+| 80           | HTTP (Port)          | Hunt for unencrypted clear-text passwords  |
+| 443          | HTTPS (Port)         | Monitor secure encrypted traffic           |
+| 53           | DNS (Port)           | See which websites a device is visiting    |
+| 192.168      | Local IP             | Filter for specific devices on your network|
+| GET          | HTTP Method          | View specific web requests being made      |
+| POST         | HTTP Method          | Find where data/forms are being submitted  |
+
+-----------------------------------------------------
+TIP: Type 'SAVE' in the app to log the current analysis.
+-----------------------------------------------------
