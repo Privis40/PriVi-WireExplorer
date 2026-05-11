@@ -9,8 +9,6 @@
 
 PriVi-WireExplorer is a professional-grade, terminal-based network analyzer designed to make packet inspection intuitive. Unlike traditional tools, it "translates" complex hex data into plain English and actively hunts for security threats like ARP Spoofing.
 
-[attachment_0](attachment)
-
 ## 🔥 Key Features
 * **Sentinel MITM Engine:** Detects ARP poisoning attacks in real-time, identifying the attacker's hardware vendor.
 * **Deep Interpretation Window:** Breaks down TCP/UDP/ARP packets into human-readable narratives.
