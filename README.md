@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🛡️ PriVi-WireExplorer (Sentinel Edition)
+**Version 1.0 — Developed by: PriViSecurity**
+
+![PriVi-Wire_Explorer Dashboard](PriVi-Wire_Explorer.PNG)
+
+
 # 🛡️ PriVi-WireExplorer v1.0 (Sentinel Edition)
 **The Simplified Wireshark Alternative for Network Forensics & MITM Detection**
 
