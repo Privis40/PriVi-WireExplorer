@@ -5,8 +5,6 @@
 
 ![PriVi-Wire_Explorer Dashboard](PriVi-Wire_Explorer.PNG)
 
-
-# 🛡️ PriVi-WireExplorer v1.0 (Sentinel Edition)
 **The Simplified Wireshark Alternative for Network Forensics & MITM Detection**
 
 PriVi-WireExplorer is a professional-grade, terminal-based network analyzer designed to make packet inspection intuitive. Unlike traditional tools, it "translates" complex hex data into plain English and actively hunts for security threats like ARP Spoofing.
