@@ -2,7 +2,7 @@
 
 # 🛡️ PriVi-WireExplorer: Developed by PriViSecurity
 
-![PriVi-WireExplorer Dashboard](PriVi-WireExplorer.PNG)
+![PriVi-WireExplorer Dashboard](PriVi-Wire_Explorer.PNG)
 
 </div>
 
