@@ -1,4 +1,4 @@
-PriVi-WireExplorer | Sentinel v6.0 Filter Cheat Sheet
+PriVi-WireExplorer | Sentinel v1.0 Filter Cheat Sheet
 =====================================================
 
 | Search Query | Protocol/Type        | Forensic Purpose                           |
